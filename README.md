@@ -6,8 +6,8 @@
 <h4 align= "center">   Hola, soy Ramiro Alvarez, estudiante de la carrera Licenciatura en Sistemas en la Universidad Nacional de La Plata(UNLP) de Argentina. En constante aprendizaje </h4>
 
 - 🌱 Actualmente estoy aprendiendo **análisis de datos y desarrollo backend**.
-- 🤔 Mis intereses son el análisis y procesamiento de datos, la inteligencia artificial, y el aprendizaje automático.
-- 💼 Estoy cursando una licenciatura en Ingeniería de Software.
+- 🤔 Mis intereses son el **análisis y procesamiento de datos, la inteligencia artificial, y el aprendizaje automático**.
+- 💼 Estoy cursando una **Licenciatura de Datos**.
 ---
 
 ### Herramientas 🛠️
@@ -26,7 +26,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img heigth="20" src="https://user-images.githubusercontent.com/10379994/31985754-c56b8dba-b998-11e7-9705-a7f984433049.png"></code>
+<code><img heigth="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
 
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=black"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
 
