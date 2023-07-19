@@ -3,6 +3,37 @@
 
 - 🌱 Actualmente estoy aprendiendo **análisis de datos y desarrollo backend**.
 
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+  <table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ### Lenguajes de Programación 🌐
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="24">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="38">](https://www.java.com/es/)
