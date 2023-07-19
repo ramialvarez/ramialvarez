@@ -1,5 +1,5 @@
 <h1 align= "center"> ¡¡HOLA!! 👋  </h1>
-<h4 align= "center> Soy Ramiro Alvarez, y actualmente estoy estudiando la carrera Licenciatura en Sistemas en la Universidad Nacional de La Plata(UNLP). En constante aprendizaje </h4>
+<h4 align= "center"> Soy Ramiro Alvarez, y actualmente estoy estudiando la carrera Licenciatura en Sistemas en la Universidad Nacional de La Plata(UNLP). En constante aprendizaje </h4>
 
 - 🌱 Actualmente estoy aprendiendo **análisis de datos y desarrollo backend**.
 
