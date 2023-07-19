@@ -9,12 +9,16 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
+        <a href= "https://www.java.com/es/">
         <span>𝗝𝗮𝘃𝗮</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        </a>
       </td>
       <td width="25%" align="center">
+        <a href= "https://www.python.org/" >
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        </a>
       </td>
     </tr>
   </tbody>
@@ -25,18 +29,22 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>SQL</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" href= "https://www.java.com/es/">
+        <a href= "https://www.mysql.com/" >
+        <span>Mysql</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+       </a>
       </td>
       <td width="25%" align="center">
-        <a href= a>
+        <a href= "https://git-scm.com/">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-        <a>
+        </a>
       </td>
       <td width="25%" align="center">
+         <a href= https://code.visualstudio.com/>
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        </a>
       </td>
     </tr>
   </tbody>
