@@ -8,10 +8,6 @@
 - 🌱 Actualmente estoy aprendiendo **análisis de datos y desarrollo backend**.
 - 🤔 Mis intereses son el **análisis y procesamiento de datos, la inteligencia artificial, y el aprendizaje automático**.
 - 💼 Estoy cursando una **Licenciatura de Datos**.
----
-
-### Herramientas 🛠️
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 ---
 
@@ -27,13 +23,6 @@
 <code><img height="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img heigth="20" src="https://code.visualstudio.com/assets/images/code-stable.png"></code>
-
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=black"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
-
-<p align="center">
-<img src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" style="vertical-align:top; margin:1px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Chrome" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Cloud" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="DataScience" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Aws" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="VSCode" style="vertical-align:top; margin:4px">
-
-</p>
 
 ---
 
