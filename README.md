@@ -10,7 +10,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="36px" src="https://cdn.svgporn.com/logos/java.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
@@ -26,7 +26,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>SQL</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
+        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" href= "https://www.java.com/es/">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
