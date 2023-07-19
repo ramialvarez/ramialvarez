@@ -26,7 +26,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img heigth="20" src="https://boluda.com/files/curso-visual-studio-code-300x169.gif"></code>
+<code><img heigth="20" src="https://code.visualstudio.com/assets/images/code-stable.png"></code>
 
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=black"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
 
