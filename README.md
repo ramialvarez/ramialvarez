@@ -1,4 +1,7 @@
 <h1 align= "left"> SOBRE MÍ 👨‍💻</h1>
+<p align="center">
+<img align= "center" src = "https://vickyparra31.files.wordpress.com/2015/06/72dc52886e2463c29de9e703dce415e4c292e642495789.gif" />
+</p>
 <h4 align= "center"> Soy Ramiro Alvarez, y actualmente estoy estudiando la carrera Licenciatura en Sistemas en la Universidad Nacional de La Plata(UNLP). En constante aprendizaje </h4>
 
 - 🌱 Actualmente estoy aprendiendo **análisis de datos y desarrollo backend**.
