@@ -10,6 +10,10 @@
 - 💼 Estoy cursando una **Licenciatura en Sistemas**.
 
 ---
+### REDES SOCIALES
+<a href="https://www.linkedin.com/in/mehdimabrouki/">
+  <img align="left" alt="LinkdeIn" width="22px" src="https://www.linkedin.com/in/ramiro-alvarez-0a8142284/" />
+</a>
 
 ### Lenguajes de Programación 🌐
 
@@ -18,13 +22,26 @@
 
 ### Herramientas 🛠️
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<a href="https://www.mysql.com/">
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+</a>
+<a href= "https://git-scm.com/">
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+</a>
+<a href="https://github.com/">
 <code><img height="60" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
+</a>
+<a href="https://www.mongodb.com/es">
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+</a>
+<a href="https://code.visualstudio.com/">
 <code><img heigth="60" src="https://code.visualstudio.com/assets/images/code-stable.png"></code>
+</a>
 
 ---
+<h2 align="center">Github Stats :bar_chart:</h2>
+
+<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramialvarez&langs_count=10&theme=dark&layout=compact" alt="agusrnfr :: Top Lenguajes" /></p>
 
 <!--
 **ramialvarez/ramialvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
