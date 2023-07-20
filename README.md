@@ -15,6 +15,7 @@
   <img align="left" alt="LinkdeIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<br /> 
 
 ### Lenguajes de Programación 🌐
 
