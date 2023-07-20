@@ -11,8 +11,8 @@
 
 ---
 ### REDES SOCIALES
-<a href="https://www.linkedin.com/in/mehdimabrouki/">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://www.linkedin.com/in/ramiro-alvarez-0a8142284/" />
+<a href="https://www.linkedin.com/in/ramiro-alvarez-0a8142284/"">
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 ### Lenguajes de Programación 🌐
