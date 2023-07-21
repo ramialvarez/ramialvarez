@@ -54,7 +54,7 @@
 
 ### Materias de segundo
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramialvarez&repo=Python)](https://github.com/ramialvarez/Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramialvarez&repo=Python&theme=radical)](https://github.com/ramialvarez/Python)
 
 
 ---
