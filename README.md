@@ -46,7 +46,7 @@
 ---
 <h2 align="center">Github Stats :bar_chart:</h2>
 
-<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramialvarez&langs_count=10&theme=dark&layout=compact" alt="ramialvarez :: Top Lenguajes" /></p>
+<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramialvarez&langs_count=10&theme=radical&layout=compact" alt="ramialvarez :: Top Lenguajes" /></p>
 
 <p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=ramialvarez&show_icons=true&theme=dark" alt="ramialvarez :: Profile Stats" /></p>
 
