@@ -19,10 +19,10 @@
 <br /> 
 
 ### Lenguajes de Programación 🌐
-<a href="https://www.java.com/es/">
+<a href="https://www.python.org/">
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 </a>
-<a href="https://www.python.org/">
+<a href="https://www.java.com/es/">
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
 </a>
 <br /> 
@@ -43,7 +43,7 @@
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 </a>
 <a href="https://code.visualstudio.com/">
-<code><img heigth="5" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1UdIQMQw4o5VvFG51j_BPXwdJemktktm5JyfLtL8czw&s"></code>
+<code><img heigth="5" src="https://code.visualstudio.com/assets/branding/spacing.jpg"></code>
 </a>
 
 ---
