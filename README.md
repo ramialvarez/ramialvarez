@@ -54,6 +54,7 @@
 
 ### Materias de segundo
 
+[(https://github-readme-stats.vercel.app/api/pin/?username=ramialvarez&repo=Python)](https://github.com/ramialvarez/Python)
 <a href="https://github.com/ramialvarez/Python">
       <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=ramialvarez&repo=Python&theme=dark" />
     </a>  
