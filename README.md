@@ -71,7 +71,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramialvarez&repo=Python&theme=tokyonight)](https://github.com/ramialvarez/Python)
 
+### Materias de tercero
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramialvarez&repo=puertoAventura&theme=tokyonight)](https://github.com/ramialvarez/puertoAventura)
 ---
 
 <!--
