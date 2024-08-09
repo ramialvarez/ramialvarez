@@ -2,7 +2,7 @@
 <h1 align="center"> Hola, soy Ramiro! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <p align="center">
-<img align= "center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVsaWszMnZibmN3Mm1hN3ViY2w4ZXgxNHl5dGQ0YmNzbHh4NzRpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wtdVYmaRWJ1PyPcc8e/giphy.webp" />
+  <img src="https://media.giphy.com/media/YAYZh6hELIivibOJWH/giphy.gif" alt="Kung Fu Panda GIF">
 </p>
 
 <h4 align= "center">   Hola, soy Ramiro Alvarez, estudiante de la carrera Licenciatura en Sistemas en la Universidad Nacional de La Plata(UNLP) de Argentina.<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h4>
